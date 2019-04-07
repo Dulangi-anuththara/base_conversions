@@ -47,7 +47,6 @@ object BaseConversions {
 
     }while(opt!=0);
 
-
   }
 
   def decimalToAny(n:Int, b:Int): String ={
@@ -90,7 +89,5 @@ object BaseConversions {
     return decimal
 
   }
-
-
 
 }
